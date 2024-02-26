@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sajib Hasan!
-I'm a passionate frontend developer specializing in Next.js and React, with a keen interest in creating delightful functional user experiences. Always ready to take on challenges and open-minded to learning whatever is needed during project development.
+I'm a passionate frontend developer specializing in Next.js and React, with a keen interest in creating delightful functional user experiences. Always ready to take new challenges and open-minded to learning whatever is needed during project development.
 
 
 ## 🚀 About Me
