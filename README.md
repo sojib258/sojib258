@@ -41,5 +41,8 @@ I'm a passionate frontend developer specializing in Next.js and React, with a ke
 Feel free to reach out to me through the following channels:
 
 <p align="left">
+          <a href="mailto:sojibsrd85@gmail.com" target="blank">
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/029/284/972/non_2x/gmail-logo-google-product-icon-of-logotype-gmail-new-google-gmail-application-icon-gmail-is-popular-internet-online-e-mail-free-vector.jpg" alt="email" height="30" width="40" />
+  </a>
 <a href="https://linkedin.com/in/sajib-hasan-4062a7223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajib-hasan-4062a7223" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100081530223793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100081530223793" height="30" width="40" /></a></p>
